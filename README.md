@@ -1,10 +1,3 @@
-Claro! Aqui está um modelo profissional e completo de **README.md** para seu projeto no GitHub, com base na proposta do artigo **"Indoor Localization Using Data Augmentation via Selective GANs"**.
-
-Você pode copiar diretamente para seu repositório, e se quiser posso te entregar como `.md` formatado também.
-
----
-
-````markdown
 # 🛰️ Indoor Localization using Selective GANs
 
 Implementação em Python (Jupyter Notebook) do artigo científico:  
