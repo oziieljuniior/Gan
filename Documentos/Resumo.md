@@ -1,6 +1,6 @@
-# 📘 Proposta Técnica – Implementação do Artigo "Indoor Localization Using Data Augmentation via Selective GANs"
+# Proposta Técnica – Implementação do Artigo "Indoor Localization Using Data Augmentation via Selective GANs"
 
-## ✅ Objetivo Geral
+## Objetivo Geral
 
 Implementar, em Python (formato Jupyter Notebook), a metodologia apresentada no artigo, com foco em:
 
@@ -14,7 +14,7 @@ Implementar, em Python (formato Jupyter Notebook), a metodologia apresentada no 
 
 ---
 
-## 📑 Estrutura do Projeto (Resumo por Seções)
+## Estrutura do Projeto (Resumo por Seções)
 
 ### 1. Introdução
 
@@ -47,7 +47,7 @@ Implementar, em Python (formato Jupyter Notebook), a metodologia apresentada no 
 
 ---
 
-## 📊 Resultados Esperados
+## Resultados Esperados
 
 * **Simulação**: redução de até **21.96%** no erro com dados sintéticos.
 * **Base real (UJIndoorLoc)**: melhora de até **15.36%** na acurácia.
@@ -55,7 +55,7 @@ Implementar, em Python (formato Jupyter Notebook), a metodologia apresentada no 
 
 ---
 
-## 💼 Aplicabilidade
+## Aplicabilidade
 
 * O projeto simula um caso real de localização indoor usando apenas **pequenos conjuntos rotulados**.
 * Serve de base para soluções em **IoT, robótica, logística e rastreamento indoor**.
