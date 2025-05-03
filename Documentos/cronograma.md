@@ -1,7 +1,3 @@
-Com prazer! Aqui está a versão **mais detalhada, refinada e profissional** do seu cronograma de 5 etapas, ideal para acompanhar o projeto junto ao cliente:
-
----
-
 # 📆 **Cronograma Detalhado – Projeto Indoor Localization com GANs**
 
 ### ✅ **Objetivo Geral do Projeto:**
