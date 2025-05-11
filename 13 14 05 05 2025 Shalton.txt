@@ -1,0 +1,3 @@
+* a fase 1 ficou a pendencia que apresentei ontem. Ficou faltando o dataset a ser gerado pela simulacao, e o gráfico nao ficou igual ao do artigo
+* outra coisa... o dataset simulado os valores rssi estao todos -110...tenta verificar se eh isso mesmo... to achando muito estanho nao ter uma variacao de valor no rssi
+* no artigo 0s valores rssi -110 significa sinal inalcancavel
