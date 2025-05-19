@@ -1,0 +1,58 @@
+.
+├── Data
+│   ├── df_all.csv
+│   ├── df_generated.csv
+│   ├── df_simulated.csv
+│   ├── df_test.csv
+│   ├── Real
+│   │   ├── trainingData.csv
+│   │   └── validationData.csv
+│   ├── simulated_rssi.csv
+│   ├── UJIndoorLoc
+│   │   ├── trainingData.csv
+│   │   └── validationData.csv
+│   └── ujindoorsubset_building1_floor2.csv
+├── Documentos
+│   ├── 2021_Indoor_Localization_Using_Data_Augmentation_via_Selective_Generative_Adversarial_Networks.pdf
+│   ├── cronograma.md
+│   ├── cronograma.pdf
+│   ├── fase2_resumo.md
+│   ├── imagens
+│   │   ├── imagem1.png
+│   │   ├── imagem2.png
+│   │   └── imagem3.png
+│   ├── info_vetor_RSSI_Gerado
+│   │   └── info.md
+│   ├── pt-br2021_Indoor_Localization_Using_Data_Augmentation_via_Selective_Generative_Adversarial_Networks.pdf
+│   ├── Resumo.md
+│   └── Resumo.pdf
+├── Models
+│   ├── comparacao_distribuicao.png
+│   ├── dados_gerados.npy
+│   ├── discriminator.h5
+│   ├── discriminator.keras
+│   ├── generator.h5
+│   ├── generator.keras
+│   └── losses.png
+├── notebook_final.ipynb
+├── Notebooks
+│   ├── extract_data1.ipynb
+│   ├── fase2_1
+│   │   └── fase2.ipynb
+│   ├── fase2.ipynb
+│   ├── fase3_1
+│   │   └── fase3_1.ipynb
+│   └── vetor_RSSI_simulado.ipynb
+├── Outputs
+│   ├── extract_data1.pdf
+│   ├── fase2_1.pdf
+│   ├── fase2.pdf
+│   ├── fase3_1.pdf
+│   ├── simulated_rssi.csv
+│   └── vetor_RSSI_simulado.pdf
+├── pyproject.toml
+├── README.md
+├── requirements.txt
+└── saida.txt
+
+12 directories, 44 files
