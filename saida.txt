@@ -27,27 +27,34 @@
 │   ├── Resumo.md
 │   └── Resumo.pdf
 ├── Models
-│   ├── comparacao_distribuicao.png
-│   ├── dados_gerados.npy
-│   ├── discriminator.h5
-│   ├── discriminator.keras
-│   ├── generator.h5
-│   ├── generator.keras
-│   └── losses.png
+│   ├── Modelsdiscriminator.h5
+│   ├── Modelsgenerator.h5
+│   └── pseudo_label_dnn.h5
 ├── notebook_final.ipynb
 ├── Notebooks
 │   ├── extract_data1.ipynb
+│   ├── fase1_1
+│   │   └── fase1_1.ipynb
 │   ├── fase2_1
+│   │   ├── fase2_2.ipynb
 │   │   └── fase2.ipynb
 │   ├── fase2.ipynb
 │   ├── fase3_1
-│   │   └── fase3_1.ipynb
+│   │   ├── fase3_1.ipynb
+│   │   └── fase3_2.ipynb
+│   ├── fase4_1
+│   │   └── fase4_1.ipynb
 │   └── vetor_RSSI_simulado.ipynb
 ├── Outputs
 │   ├── extract_data1.pdf
+│   ├── fase1_1.pdf
 │   ├── fase2_1.pdf
+│   ├── fase2_2.pdf
 │   ├── fase2.pdf
 │   ├── fase3_1.pdf
+│   ├── fase3_2.pdf
+│   ├── fase3_3.pdf
+│   ├── fase4_1.pdf
 │   ├── simulated_rssi.csv
 │   └── vetor_RSSI_simulado.pdf
 ├── pyproject.toml
@@ -55,4 +62,4 @@
 ├── requirements.txt
 └── saida.txt
 
-12 directories, 44 files
+14 directories, 49 files
